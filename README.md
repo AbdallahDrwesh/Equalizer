@@ -1,4 +1,5 @@
 ![](screenshoot/equilizer.gif)
+
 ###There is Modification in pyqtgraph package 
 module plotItem.py lines 1175 and 1118 
 ```python
